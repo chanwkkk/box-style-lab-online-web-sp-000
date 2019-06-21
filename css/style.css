@@ -63,8 +63,9 @@ h4 {
   width: 303%;
 }
 
-.container{
-  border: 1px solid black
+img {
+  
+  border: 2px solid #333;
 }
 
 h4.amiable {
